@@ -2,7 +2,7 @@
 
 ###  Day 2 - File IO
 Now that you have reviewed some of the basics with printing and formatting we will move on
-to file input and output.  
+to file input and output. The code should be written in a file named  ```day1_python_exercises.py``` in the Scripts directory
 
 File IO is very important in research. Most of the scripts you will write are going to have
 at least one file that is used as input and at least one file for output.  
@@ -31,7 +31,7 @@ windows_example_filepath = "Data\\test.csv"
 
 # Simple variables to find the file
 working_directory = "../Data/"
-file_name = "test.txt"
+file_name = "Day_2_data.txt"
 
 # Creating a file object is the first step to reading or writing to a file
 input_file = open(working_directory + file_name)

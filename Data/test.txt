@@ -1,9 +1,0 @@
-The blue fox jumped over the fence.
-The brown fox jumped over the brown fence.
---SKIP LINE--
-firstName,lastName,school,age,major
-Chris,Holle,Baylor,22,Computer Science
-Ian,Cancel,Baylor,19,Geophysics
-Scott,James,Baylor,,Engineering
-John,Doe,UT,20,Art
-Donald,Duck,SMU,21,Criminal Justice
